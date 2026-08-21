@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grover-workshop"
+version = "0.1.0"
+description = "Support package for the Grover's algorithm hands-on workshop (HO#02)"
+requires-python = ">=3.9"
+dependencies = [
+    "qiskit>=1.0",
+]
+
+[tool.setuptools]
+packages = ["grover_workshop"]
