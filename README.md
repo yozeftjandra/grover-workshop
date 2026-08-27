@@ -1,6 +1,6 @@
 # Grover Workshop
 
-Support package and notebooks for the Grover's algorithm hands-on session (HO#02).
+Support package and notebooks for the Grover's algorithm hands-on session.
 
 ## Contents
 
@@ -73,6 +73,3 @@ oracle (Section 5) and the graded secret-oracle exercise (Section 6).
 | 6 | Exercise: guess secret oracle strings (graded via package) | Hands-on, core |
 | 7 | Oracle design | Deferred — self-sufficient notebook section |
 
-## License
-
-MIT -- see LICENSE.
